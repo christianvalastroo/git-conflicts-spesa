@@ -1,0 +1,2 @@
+# git-conflicts-spesa
+
